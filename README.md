@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+GitHub+Profile;Java+Backend+Developer;Spring+Boot+%7C+RESTful+API+Developer;Database+Design+%7C+Microservices;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Java+Backend+Developer;Spring+Boot+Developer;RESTful+API+Designer;Backend+System+Builder;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -28,14 +28,14 @@
 ```java
 public class HoSiTan {
 
+    private final String role =
+            "Java Backend Developer";
+
     private final String university =
             "Foreign Trade University";
 
     private final String major =
             "Software Engineering";
-
-    private final String role =
-            "Java Backend Developer";
 
     private final String[] technologies = {
             "Java",
@@ -48,16 +48,22 @@ public class HoSiTan {
     };
 
     public String goal() {
-        return "Building scalable and maintainable backend systems.";
+        return "Build scalable, secure and maintainable backend systems.";
     }
 }
 ````
 
-* 🎓 Software Engineering Student
-* 💼 Aspiring Java Backend Developer
-* 🔭 Currently working with Java, Spring Boot, REST APIs
-* 🌱 Learning Japanese and System Design
-* 📧 Contact: **[sytanho2@gmail.com](mailto:sytanho2@gmail.com)**
+### 🎯 Career Objective
+
+I am a Software Engineering student passionate about backend development.
+
+My goal is to become a professional Java Backend Developer specializing in:
+
+* Spring Boot
+* RESTful APIs
+* Database Design
+* Microservices Architecture
+* Cloud & DevOps Technologies
 
 ---
 
@@ -71,11 +77,38 @@ public class HoSiTan {
 
 ---
 
+# 🛠 Backend Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🗄 Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</div>
+
+---
+
 # 🏆 Honors & Awards
 
 🥇 First Prize — CODEMOSAIC 2025
 
-🎓 50% Scholarship — University Achievement Scholarship
+🎓 50% Scholarship
 
 🥉 Third Prize — Olympiad in Competitive Programming for Students in Central Vietnam
 
@@ -83,7 +116,7 @@ public class HoSiTan {
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -92,6 +125,8 @@ public class HoSiTan {
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hositan26&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -105,15 +140,19 @@ public class HoSiTan {
 
 🔹 Java Backend Development
 
-🔹 Spring Boot & Spring Security
+🔹 Spring Boot
 
-🔹 RESTful API Design
+🔹 Spring Security
+
+🔹 RESTful APIs
 
 🔹 Database Optimization
 
-🔹 Microservices Architecture
+🔹 Microservices
 
-🔹 Docker & CI/CD
+🔹 Docker
+
+🔹 System Design
 
 ---
 
@@ -127,9 +166,21 @@ public class HoSiTan {
 
 ---
 
+# 📫 Connect With Me
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Java+Backend+Developer.;Thanks+for+visiting+my+profile!" />
+<a href="mailto:sytanho2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Java+Backend+Developer.;Backend+Engineering+Enthusiast.;Thanks+for+visiting+my+profile!" />
 
 </div>
 
