@@ -38,17 +38,6 @@
 
 ---
 
-### 🚀 Featured Project
-**Part-time Hiring Platform**
-*   **Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Cloudinary, Docker.
-*   **Highlights:** 
-    * Designed and developed RESTful APIs for job management, tracking, and employer verification.
-    * Implemented secure Role-Based Access Control (RBAC) using Spring Security and JWT.
-    * Optimized MySQL database schema and built an employer verification workflow with OTP via email.
-    * Containerized the entire backend service using Docker for consistent deployment.
-
----
-
 ### 🏆 Honors & Awards
 *   🥇 **First Prize** - CODEMOSAIC 2025 (FPT University)
 *   🎓 **50% Scholarship** - FPT University
