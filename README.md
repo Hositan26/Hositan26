@@ -38,6 +38,14 @@
 
 ---
 
+### 🏆 Honors & Awards
+*   🥇 **First Prize** - CODEMOSAIC 2025 (FPT University)
+*   🎓 **50% Scholarship** - FPT University
+*   🥉 **Third Prize** - The Olympiad in Competitive Programming for Students in Central Vietnam
+*   🥉 **Third Prize** - Provincial High School Excellent Student Competition in Informatics (Quang Tri)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
