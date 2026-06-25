@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ho Si Tan <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007ACC,6DB33F,ED8B00&height=250&section=header&text=Hi%20there,%20I'm%20Ho%20Si%20Tan%20👋&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineering%20Student%20|%20Java%20Backend%20Developer&descAlignY=55&descSize=22" alt="Header Banner" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
