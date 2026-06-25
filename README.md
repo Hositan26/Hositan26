@@ -35,16 +35,6 @@
 **DevOps & Tools:**  
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 
----
-
-### 🚀 Featured Project
-**Part-time Hiring Platform**
-*   **Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Cloudinary, Docker.
-*   **Highlights:** 
-    * Designed and developed RESTful APIs for job management, tracking, and employer verification.
-    * Implemented secure Role-Based Access Control (RBAC) using Spring Security and JWT.
-    * Optimized MySQL database schema and built an employer verification workflow with OTP via email.
-    * Containerized the entire backend service using Docker for consistent deployment.
 
 ---
 
