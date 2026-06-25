@@ -1,53 +1,139 @@
+````md
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007ACC,6DB33F,ED8B00&height=250&section=header&text=Hi%20there,%20I'm%20Ho%20Si%20Tan%20👋&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineering%20Student%20|%20Java%20Backend%20Developer&descAlignY=55&descSize=22" alt="Header Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=HO%20SI%20TAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Software%20Engineering%20Student&descAlignY=58&descSize=22"/>
+
 </div>
 
 <div align="center">
-  <a href="mailto:sytanho2@gmail.com"><img src="https://img.shields.io/badge/Email-sytanho2%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+GitHub+Profile;Java+Backend+Developer;Spring+Boot+%7C+RESTful+API+Developer;Database+Design+%7C+Microservices;Always+Learning+New+Technologies" />
+
 </div>
 
-<br/>
+<div align="center">
 
-### 👨‍💻 About Me
-* 🎓 Third-year **Software Engineering** student at **FPT University**, Da Nang.
-* 🎯 **Objective:** Seeking opportunities as a **Java Backend Developer**.
-* 🔭 **Currently focusing on:** Java, Spring Boot, RESTful APIs, and database design.
-* 🌱 **Currently learning:** Japanese to expand my future career opportunities.
-* 📫 **How to reach me:** sytanho2@gmail.com
+<a href="mailto:sytanho2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sytanho2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=Hositan26&style=for-the-badge&color=blue" />
 
-### 🛠️ Tech Stack & Tools
-
-**Languages:**  
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-**Backend Technologies:**  
-<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/spring_security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-
-**Databases:**  
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-
-**DevOps & Tools:**  
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-### 🏆 Honors & Awards
-*   🥇 **First Prize** - CODEMOSAIC 2025 (FPT University)
-*   🎓 **50% Scholarship** - FPT University
-*   🥉 **Third Prize** - The Olympiad in Competitive Programming for Students in Central Vietnam
-*   🥉 **Third Prize** - Provincial High School Excellent Student Competition in Informatics (Quang Tri)
+# 👨‍💻 About Me
+
+```java
+public class HoSiTan {
+
+    private final String university =
+            "Foreign Trade University";
+
+    private final String major =
+            "Software Engineering";
+
+    private final String role =
+            "Java Backend Developer";
+
+    private final String[] technologies = {
+            "Java",
+            "Spring Boot",
+            "Spring Security",
+            "Hibernate",
+            "MySQL",
+            "PostgreSQL",
+            "Docker"
+    };
+
+    public String goal() {
+        return "Building scalable and maintainable backend systems.";
+    }
+}
+````
+
+* 🎓 Software Engineering Student
+* 💼 Aspiring Java Backend Developer
+* 🔭 Currently working with Java, Spring Boot, REST APIs
+* 🌱 Learning Japanese and System Design
+* 📧 Contact: **[sytanho2@gmail.com](mailto:sytanho2@gmail.com)**
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hositan26&show_icons=true&theme=dracula&hide_border=true" alt="Hositan26's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hositan26&theme=dracula&hide_border=true" alt="Hositan26's GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hositan26&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="40%" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,idea,linux" />
+
+</div>
+
+---
+
+# 🏆 Honors & Awards
+
+🥇 First Prize — CODEMOSAIC 2025
+
+🎓 50% Scholarship — University Achievement Scholarship
+
+🥉 Third Prize — Olympiad in Competitive Programming for Students in Central Vietnam
+
+🥉 Third Prize — Provincial Excellent Student Competition in Informatics
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hositan26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hositan26&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hositan26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🔹 Java Backend Development
+
+🔹 Spring Boot & Spring Security
+
+🔹 RESTful API Design
+
+🔹 Database Optimization
+
+🔹 Microservices Architecture
+
+🔹 Docker & CI/CD
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hositan26&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Java+Backend+Developer.;Thanks+for+visiting+my+profile!" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+```
+```
